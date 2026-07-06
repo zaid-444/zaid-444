@@ -23,7 +23,7 @@ An ambitious and tech-driven **M.Sc. in Computer Science Graduate (2026)** with 
 * **Automation:** Managed comprehensive CRUD architecture handling time-slot availability, automated notifications, and real-time order tracking.
 ---
 ### 📊 Coding Profiles & Achievements
-* 🎯 **LeetCode:** Successfully solved **160+ data structures and algorithms problems** (Focus: Problem Solving).
+* 🎯 **LeetCode:** Successfully solved **190+ data structures and algorithms problems** (Focus: Problem Solving).
 * ⭐ **HackerRank:** Achieved a **5-Star Badge in Python** verification.
 * 🎓 **Academic Excellence:** Completed **M.Sc. (CS)** with a stellar **8.38 CGPA**.
 ---
