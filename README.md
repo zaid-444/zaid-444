@@ -1,4 +1,4 @@
-# Hi there, I'm Shaikh Zaid Gaffar! 👋
+# Hi there, I'm Shaikh Zaid! 👋
 ### 🚀 Python Django Developer | Full Stack Web Developer
 An ambitious and tech-driven **M.Sc. in Computer Science Graduate (2026)** with a strong foundation in building full-stack web applications. Passionate about writing clean, efficient code and solving complex algorithmic challenges. 
 ---
