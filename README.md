@@ -85,11 +85,10 @@
 </p>
 
 <p align="center">
-  <!-- Live GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=zaid-444&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
+  <!-- WORKING Alternative GitHub Stats -->
+  <img src="https://gh-readme-profile.vercel.app/api?username=zaid-444&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=zaid-444&theme=dark&hide_border=true" alt="GitHub Streak" />
 </p>
-
 ---
 
 ### 🏆 Education & Certifications
