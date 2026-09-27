@@ -88,6 +88,7 @@
   <!-- Live GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=zaid-444&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=zaid-444&theme=dark&hide_border=true" alt="GitHub Streak" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite,git,github,docker,vscode,postman&perline=8" alt="Databases & Tools" />
 </p>
 
 ---
