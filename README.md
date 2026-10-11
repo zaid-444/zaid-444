@@ -95,4 +95,4 @@
 - 🎓 **M.Sc. in Computer Science (2026):** Dr. Babasaheb Ambedkar Marathwada University *(CGPA: 8.38)*
 - 🎓 **B.Sc. in Computer Science (2024):** Dr. Babasaheb Ambedkar Marathwada University
 - 📜 **Certifications:** Full Stack Python (Naresh IT), Python Programming (GeeksforGeeks)
-- ⭐ **Achievements:** 5-Star Python Badge on HackerRank | **288+ LeetCode problems solved**
+- ⭐ **Achievements:** 5-Star Python Badge on HackerRank | **289+ LeetCode problems solved**
